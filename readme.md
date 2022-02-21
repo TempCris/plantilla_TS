@@ -1,10 +1,3 @@
-# ------ Answer of excercie ------
-  https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
-
-## System requirements:
-- node 11 or superior
-- npm 6 or superior
-- git
 
 ## Steps to run
 - 1. Download the repository
